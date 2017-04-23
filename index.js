@@ -1,3 +1,5 @@
+// Does this work ?
+
 "use latest";
 
 var MongoClient = require('mongodb').MongoClient;
